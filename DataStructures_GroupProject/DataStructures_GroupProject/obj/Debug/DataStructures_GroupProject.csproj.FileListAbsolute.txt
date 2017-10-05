@@ -1,0 +1,7 @@
+C:\Users\tomir\source\repos\DataStructures_GroupProject\DataStructures_GroupProject\obj\Debug\DataStructures_GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\tomir\source\repos\DataStructures_GroupProject\DataStructures_GroupProject\bin\Debug\DataStructures_GroupProject.exe.config
+C:\Users\tomir\source\repos\DataStructures_GroupProject\DataStructures_GroupProject\bin\Debug\DataStructures_GroupProject.exe
+C:\Users\tomir\source\repos\DataStructures_GroupProject\DataStructures_GroupProject\bin\Debug\DataStructures_GroupProject.pdb
+C:\Users\tomir\source\repos\DataStructures_GroupProject\DataStructures_GroupProject\obj\Debug\DataStructures_GroupProject.exe
+C:\Users\tomir\source\repos\DataStructures_GroupProject\DataStructures_GroupProject\obj\Debug\DataStructures_GroupProject.pdb
+C:\Users\tomir\source\repos\DataStructures_GroupProject\DataStructures_GroupProject\obj\Debug\DataStructures_GroupProject.csprojResolveAssemblyReference.cache
